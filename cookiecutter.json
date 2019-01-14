@@ -1,0 +1,5 @@
+{
+    "pytest_root_dir_name": "ui_tests",
+    "pytest_project_name": "pytest-selenium-cookiecutter",
+
+}
